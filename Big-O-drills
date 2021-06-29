@@ -1,7 +1,7 @@
 Question 1
-  A. Big O is constant time O(1) b/c it doesn't matter how big the group is, everyone hears you the one time you ask for a playmate.
+  A. Big O is constant time O(1) because it doesn't matter how big the group is, everyone hears you the one time you ask for a playmate.
 
-  B. Big O is linear time O(n) b/c the time it takes to find a playmate grows proportionally to the number of people you're asking.
+  B. Big O is linear time O(n) because the time it takes to find a playmate grows proportionally to the number of people you're asking.
 
 Quetion 2
   function isEven(value) {
